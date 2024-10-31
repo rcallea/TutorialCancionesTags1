@@ -3,3 +3,8 @@ src/modelo/__pycache__/*
 src/logica/__pycache__/*
 src/vista/__pycache__/*
 venv/*
+.tox/*
+aplicacion.sqlite
+.coverage
+*.cpython*
+coverage.xml

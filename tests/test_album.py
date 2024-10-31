@@ -1,5 +1,7 @@
 import unittest
+import sys
 
+sys.path.append('./')
 from faker import Faker
 
 from src.logica.coleccion import Coleccion
